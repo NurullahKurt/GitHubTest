@@ -1,0 +1,8 @@
+# Kullanıcıdan adı al
+ad = input("Adınız nedir? ")
+
+# Selamlama mesajı oluştur
+selam_mesaji = f"Merhaba, {ad}! Python'a hoş geldin."
+
+# Selamlama mesajını ekrana yazdır
+print(selam_mesaji)
